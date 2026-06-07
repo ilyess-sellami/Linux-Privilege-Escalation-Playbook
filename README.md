@@ -1,5 +1,7 @@
 # Linux Privilege Escalation Playbook
 
+![](docs/Banner-Image.png)
+
 A practical guide to understanding, identifying, and exploiting Linux privilege escalation vectors commonly encountered during penetration tests, security assessments, labs, and Capture The Flag (CTF) challenges.
 
 This repository focuses on the methodology, techniques, and misconfigurations that can lead to privilege escalation on Linux systems. Each module covers the underlying concepts, enumeration techniques, exploitation methods, detection opportunities, and mitigation strategies to provide both offensive and defensive perspectives.

@@ -30,10 +30,7 @@ Investigate cron jobs, at jobs, writable scripts, PATH hijacking opportunities, 
 
 Analyze system services, systemd configurations, writable service files, environment variable abuse, and process-related privilege escalation opportunities.
 
-### [07. Writable Files and Misconfigurations](#07-writable-files-and-misconfigurations)
 
-Identify insecure file permissions, writable directories, shared library hijacking opportunities, LD_PRELOAD abuse, and other common Linux misconfigurations.
-
-### [08. Kernel Exploitation](#08-kernel-exploitation)
+### [07. Kernel Exploitation](#08-kernel-exploitation)
 
 Understand kernel vulnerability identification, exploit selection, version verification, and the risks associated with kernel-level privilege escalation techniques.

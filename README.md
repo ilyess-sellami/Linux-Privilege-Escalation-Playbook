@@ -31,6 +31,6 @@ Investigate cron jobs, at jobs, writable scripts, PATH hijacking opportunities, 
 Analyze system services, systemd configurations, writable service files, environment variable abuse, and process-related privilege escalation opportunities.
 
 
-### [07. Kernel Exploitation](#08-kernel-exploitation)
+### [07. Kernel Exploitation](#07-kernel-exploitation)
 
 Understand kernel vulnerability identification, exploit selection, version verification, and the risks associated with kernel-level privilege escalation techniques.

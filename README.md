@@ -8,7 +8,7 @@ This repository focuses on the methodology, techniques, and misconfigurations th
 
 ## Modules
 
-### [01. Enumeration](#01-enumeration)
+### [01. Enumeration](#01-enumeration.md)
 
 Learn how to systematically enumerate Linux systems, users, services, processes, network configurations, permissions, and potential privilege escalation vectors.
 
